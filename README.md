@@ -1,6 +1,6 @@
 # .Net ile N Katmanlı Mimari Yapısı Temelinde Basit Bir Console Uygulaması
 
-Bu proje,Murat YÜCEDAĞ hocamızın [eğitim videoları](https://www.udemy.com/share/106ELw3@Iy2XtGVPvff8t5SpZfKr1qFEUR4WM75m45thnxHc6g7LwpSUfKc3Dl7Oc7Ypy1-G/) rehberliğinde geliştirmiş olduğum N Katmanlı mimaride basit düzeyde Crud işlemlerini gerçekleştirdiğim bir Console uygulamasıdır. 
+Bu proje,Murat YÜCEDAĞ hocamızın [eğitim videoları](https://www.udemy.com/share/106ELw3@Iy2XtGVPvff8t5SpZfKr1qFEUR4WM75m45thnxHc6g7LwpSUfKc3Dl7Oc7Ypy1-G/) rehberliğinde geliştirmiş olduğum bu proje, N Katmanlı mimari kullanarak basit düzeyde Crud işlemlerini yaptığım bir Console uygulamasıdır. 
 
 ## 🚀 Proje Özellikleri
 
