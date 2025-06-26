@@ -1,0 +1,17 @@
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\Seher CELIK\Desktop\NTier\BusinessLayer\bin\Debug\FluentValidation.xml
